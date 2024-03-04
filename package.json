@@ -15,7 +15,7 @@
   },
   "dependencies": {
     "@vitejs/plugin-react": "^4.2.1",
-    "lil-gui": "^0.19.1",
+    "lil-gui": "^0.19.2",
     "polyline-normals": "^2.0.2",
     "three": "^0.158.0",
     "vite-plugin-glsl": "^1.2.1"
